@@ -7,11 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1Vpfwgq0plbghvPR6VyIWVbaBP0qd_s_W
 
 # Learning the topology of a Bayesian Network from a database of cases using the K2 algorithm
-
-End-of-semester project for *Advanced Statistics for Physics Analysis*, academic year 2023/2024, by
-- Maria Camila Paris Diaz (2106186)
-- Gabriele Poccianti (2106713)
-- Laura Schulze (2122311)
 """
 
 # install packages otherwise unavailable in colab
